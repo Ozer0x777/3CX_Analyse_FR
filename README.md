@@ -12,6 +12,7 @@ La capture ci-dessous illustre le flux d'infection.
 ### Analyse technique
 
 Le programme d'installation du paquet MSI qui a été compromis possède une signature numérique et son apparence ressemble à celle d'un fichier légitime, comme le montre la capture ci-dessous.
+
 ![Capture 2](./Images/capture2.png)
 
 *capture 2 - Programme d'installation MSI portant une signature numérique*
